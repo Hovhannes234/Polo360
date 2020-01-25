@@ -1,0 +1,157 @@
+.body {
+	font-family: arial,sens-serif;
+	
+}
+
+.bort {
+	
+	display: flex;
+	width: 950px;
+	margin-left: 210px;
+	margin-top: 3px;
+}
+
+.menu  {
+    display:flex;
+    margin-left: 275px;
+}
+.menu a {
+	color: #000;
+	text-decoration: none;
+	text-transform: uppercase;
+	margin-right: 36px;
+
+}
+.menu p {
+	font-size: 10px;
+	margin-top: 2px;
+	color: #CBCBCB;
+}
+.blok {
+	margin-top: 22px;
+	background: rgb(71,69,69);
+    background: linear-gradient(0deg, rgba(71,69,69,1) 0%, rgba(0,0,0,1) 72%, rgba(0,0,0,1) 79%, rgba(0,0,0,1) 100%);
+	padding: 9px;
+	width: 1323px;
+	height: 334px;
+	display: flex;
+}
+.nkar {
+   display: flex;
+   padding-top: 23px;
+   margin: 0 auto;
+   height: 332px;
+   border: 0,5px solid #282923;
+   box-shadow: 0px 0px 10px #000;
+   object-fit: cover;
+}
+.lorem {
+	text-align: center;
+	margin-top:28px;
+}
+.hr {
+	width: 928px;
+	color: #CBCBCB;
+	opacity: 0.2;
+}
+.Services_item h3 {
+ 	color: #11759A;
+	margin-bottom: 3px;
+
+
+}
+.Services-clearfix {
+	display: flex;
+	width: 931px;
+	margin-left: 210px;
+	margin-top: 3px;
+}
+.Services_item  {
+	flex-direction: column;
+	display: flex;
+	width: 291px;
+	margin-left: 23px;
+
+}
+.Services_item p {
+	margin-bottom: 22px;
+	font-size: 12px;
+	color: #888888;
+	margin-top: 3px;
+}
+.dolore {
+	display: flex;
+	font-size: 12px;
+	color: #585858;
+	width: 931px;
+	margin-left: 213px;
+	
+	
+}
+.sed {
+	margin-left: 27px;
+	display: flex;
+	margin-bottom: 15px;
+}
+.learn {
+	display: flex;
+	width: 291px; 
+}
+.more {
+	background: #E8E8E8;
+	color: #3F84A1;
+	width: 162px;
+	padding: 10px;
+	margin-bottom: 15px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 9px;
+	margin-top: 21px;
+	display: block;
+	margin-left: 150px;
+	border: 1px solid #D9D9D9;
+	border-radius: 4px;
+	transition: 1s all;
+}
+.learn {
+	margin-left: 85px;
+}
+.more a {
+	margin-bottom: 1px;
+   	&#x2192;
+}
+.learn  {
+	padding:right;	
+}
+.more:hover  {
+	transform: scale(1.1);
+
+}
+.div  {
+	display: flex;
+	width: 931px;
+	margin-left: 210px;
+	 
+}
+.line {
+	border-top: 1px dashed #000;
+	height: 2;
+	opacity: 0.3;
+}
+.div div {
+	flex-direction: column;
+	width: 291px;
+	margin-left: 20px;
+	display: flex;
+}
+.div p {
+	font-size: 12px;
+	color: #616161;
+}
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+.text {
+	width:  100px;
+	height: 100px;
+	float: right;
+    background-color: green;
+    margin: 5px;
+}
